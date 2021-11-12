@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel;
+using ShopCart.core.Models;
 
 namespace ShopCart.core.Models
 {
